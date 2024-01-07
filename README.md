@@ -30,6 +30,10 @@ Elina Vigand, Tosin Aderanti, Anurag Chowdhury
 - Segment 2 "Conservatives": Cautious spenders who mostly pay off balances in full. They have a preference for cash advances and have low credit utilization rate.
 - Segment 3 "Core Base": Stable and reliable customers who form the foundation of the customer base.
 
+![Spending habits of customer segments 1](https://github.com/elinavigand/customer-segmentation-bankA/blob/main/images/spending-habits1.png)
+![Spending habits of customer segments 1](https://github.com/elinavigand/customer-segmentation-bankA/blob/main/images/spending-habits2.png)
+![Spending habits of customer segments 1](https://github.com/elinavigand/customer-segmentation-bankA/blob/main/images/spending-habits3.png)
+
 ## Step 4: Recommendations
 
 The "Conservatives" segment is characterized by low purchase amounts, a preference for cash advances, and a low credit utilization rate. 
